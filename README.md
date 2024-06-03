@@ -1,2 +1,3 @@
 # Bad9
-Idk
+New project still working on it 
+
